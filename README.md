@@ -19,3 +19,7 @@ _`Iris Dataset`_ is considered as the Hello World for data science. It contains 
 Hello, my name is Aditi Podder. I am an Engineering Student at Kalinga Institute of Industrial Technology. Now that my this project is over, I am open-sourcing the project. Hope you like it!
 If you would like to contribute to this project, you can do so by creating a PR ; and to support my work, you can click on the projects you like and reward a star.
 
+# Socials
+1. Instagram :  [LINK](https://instagram.com/aditipd1/)
+2. Github :  [LINK](https://github.com/aditi-pd1/)
+
